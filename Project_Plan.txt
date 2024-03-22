@@ -1,3 +1,6 @@
 Login Project Plan
-    \nDirectory Structure
-\t |--Home.php\n\t |--Login.php
+    Directory Structure
+	|--Home.php
+	|--Login.php
+	|--Logout.php
+	|--Logout_Process.php
