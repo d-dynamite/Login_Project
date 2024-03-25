@@ -1,6 +1,6 @@
 Login Project Plan
     Directory Structure
-	|--Home.php
 	|--Login.php
+	|--Home/Index.php
 	|--Logout.php
 	|--Logout_Process.php
