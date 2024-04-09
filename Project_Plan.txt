@@ -1,5 +1,5 @@
 Login Project Plan
-    Directory Structure
+    -Directory Structure-
 	|--Login.php
 	|--Home/Index.php
 	|--Logout.php
